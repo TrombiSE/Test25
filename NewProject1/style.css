@@ -1,0 +1,32 @@
+.Mario{
+    margin-left: 55%;
+    margin-right: 15%;
+    margin-top: 90px;
+    position: absolute;
+    text-align: center;
+}
+.PacMan{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 20%;
+    margin-right: 45%;
+    text-align: center;
+}
+.Jurassic{
+    position: absolute;
+    margin-top: 690px;
+    margin-left: 55%;
+    margin-right: 15%;
+    text-align: center;
+}
+.Shapka{
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+}
+.Shapka a{
+    padding-left: 80px;
+}
+.Maps{
+    margin-top: 1300px;
+}
